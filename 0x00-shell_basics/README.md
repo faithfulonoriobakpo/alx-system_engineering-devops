@@ -1,2 +1,0 @@
-# usage
-shell codes
